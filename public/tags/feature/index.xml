@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Feature on Clusters and Currents</title>
-    <link>//localhost:1313/tags/feature/</link>
+    <link>https://vivek-shilimkar.github.io/currents-and-clusters/tags/feature/</link>
     <description>Recent content in Feature on Clusters and Currents</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Jun 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/feature/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vivek-shilimkar.github.io/currents-and-clusters/tags/feature/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quirky Quakes - A tale of Earthquakes</title>
-      <link>//localhost:1313/life/quirky-quakes/</link>
+      <link>https://vivek-shilimkar.github.io/currents-and-clusters/life/quirky-quakes/</link>
       <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/life/quirky-quakes/</guid>
+      <guid>https://vivek-shilimkar.github.io/currents-and-clusters/life/quirky-quakes/</guid>
       <description>Life in Sapporo I’ve been living in Sapporo, the capital of Hokkaido, for many years now. Hokkaido is known for its pristine forests, breathtaking natural beauty, dairy products, and fresh seafood.</description>
     </item>
   </channel>
