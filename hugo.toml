@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://vivek-shilimkar.github.io/currents-and-clusters/'
 languageCode = 'en-us'
 title = 'Clusters and Currents'
 theme = 'pehtheme'
