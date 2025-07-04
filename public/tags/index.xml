@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Clusters and Currents</title>
-    <link>https://vivek-shilimkar.github.io/currents-and-clusters/tags/</link>
+    <link>http://localhost:1313/currents-and-clusters/tags/</link>
     <description>Recent content in Tags on Clusters and Currents</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://vivek-shilimkar.github.io/currents-and-clusters/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/currents-and-clusters/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Climate</title>
-      <link>https://vivek-shilimkar.github.io/currents-and-clusters/tags/climate/</link>
+      <link>http://localhost:1313/currents-and-clusters/tags/climate/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://vivek-shilimkar.github.io/currents-and-clusters/tags/climate/</guid>
+      <guid>http://localhost:1313/currents-and-clusters/tags/climate/</guid>
       <description></description>
     </item>
     <item>
       <title>Ocean</title>
-      <link>https://vivek-shilimkar.github.io/currents-and-clusters/tags/ocean/</link>
+      <link>http://localhost:1313/currents-and-clusters/tags/ocean/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://vivek-shilimkar.github.io/currents-and-clusters/tags/ocean/</guid>
+      <guid>http://localhost:1313/currents-and-clusters/tags/ocean/</guid>
       <description></description>
     </item>
     <item>
       <title>Science</title>
-      <link>https://vivek-shilimkar.github.io/currents-and-clusters/tags/science/</link>
+      <link>http://localhost:1313/currents-and-clusters/tags/science/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://vivek-shilimkar.github.io/currents-and-clusters/tags/science/</guid>
+      <guid>http://localhost:1313/currents-and-clusters/tags/science/</guid>
       <description></description>
     </item>
     <item>
       <title>Cloud</title>
-      <link>https://vivek-shilimkar.github.io/currents-and-clusters/tags/cloud/</link>
+      <link>http://localhost:1313/currents-and-clusters/tags/cloud/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://vivek-shilimkar.github.io/currents-and-clusters/tags/cloud/</guid>
+      <guid>http://localhost:1313/currents-and-clusters/tags/cloud/</guid>
       <description></description>
     </item>
     <item>
       <title>Cloud Seeding</title>
-      <link>https://vivek-shilimkar.github.io/currents-and-clusters/tags/cloud-seeding/</link>
+      <link>http://localhost:1313/currents-and-clusters/tags/cloud-seeding/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://vivek-shilimkar.github.io/currents-and-clusters/tags/cloud-seeding/</guid>
+      <guid>http://localhost:1313/currents-and-clusters/tags/cloud-seeding/</guid>
       <description></description>
     </item>
     <item>
       <title>Extremes</title>
-      <link>https://vivek-shilimkar.github.io/currents-and-clusters/tags/extremes/</link>
+      <link>http://localhost:1313/currents-and-clusters/tags/extremes/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://vivek-shilimkar.github.io/currents-and-clusters/tags/extremes/</guid>
+      <guid>http://localhost:1313/currents-and-clusters/tags/extremes/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>https://vivek-shilimkar.github.io/currents-and-clusters/tags/technology/</link>
+      <link>http://localhost:1313/currents-and-clusters/tags/technology/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://vivek-shilimkar.github.io/currents-and-clusters/tags/technology/</guid>
+      <guid>http://localhost:1313/currents-and-clusters/tags/technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Cyclone</title>
-      <link>https://vivek-shilimkar.github.io/currents-and-clusters/tags/cyclone/</link>
+      <link>http://localhost:1313/currents-and-clusters/tags/cyclone/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://vivek-shilimkar.github.io/currents-and-clusters/tags/cyclone/</guid>
+      <guid>http://localhost:1313/currents-and-clusters/tags/cyclone/</guid>
       <description></description>
     </item>
     <item>
       <title>Feature</title>
-      <link>https://vivek-shilimkar.github.io/currents-and-clusters/tags/feature/</link>
+      <link>http://localhost:1313/currents-and-clusters/tags/feature/</link>
       <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://vivek-shilimkar.github.io/currents-and-clusters/tags/feature/</guid>
+      <guid>http://localhost:1313/currents-and-clusters/tags/feature/</guid>
       <description></description>
     </item>
     <item>
       <title>Life</title>
-      <link>https://vivek-shilimkar.github.io/currents-and-clusters/tags/life/</link>
+      <link>http://localhost:1313/currents-and-clusters/tags/life/</link>
       <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://vivek-shilimkar.github.io/currents-and-clusters/tags/life/</guid>
+      <guid>http://localhost:1313/currents-and-clusters/tags/life/</guid>
       <description></description>
     </item>
     <item>
       <title>Diary</title>
-      <link>https://vivek-shilimkar.github.io/currents-and-clusters/tags/diary/</link>
+      <link>http://localhost:1313/currents-and-clusters/tags/diary/</link>
       <pubDate>Wed, 10 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://vivek-shilimkar.github.io/currents-and-clusters/tags/diary/</guid>
+      <guid>http://localhost:1313/currents-and-clusters/tags/diary/</guid>
       <description></description>
     </item>
   </channel>
